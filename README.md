@@ -23,4 +23,5 @@ Aplikasi ini sekarnag menggunakan pola MVC (Model-View-Controller):
 - Model: 'TodoTask.java' dan 'TodoRepositoryMySQL.java' (urusan data dan database)
 - View: 'TodoView.java' (tampilan (tombol, tabel, form)
 - Controller: 'TodoController.java' (logika dan event handling)
+
 Dengan MVC, kode jadi lebih terorganisir karena masing-masing bagian punya tugasnya sendiri.
